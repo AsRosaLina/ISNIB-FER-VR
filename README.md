@@ -14,7 +14,6 @@ This repository is being released progressively alongside the publication proces
 
 - Pipeline overview diagrams
 - FER module: architecture overview and preprocessing pipeline
-- Decision Engine: label-matching logic
 - VR module: game descriptions and demo material
 
 ## Citation
