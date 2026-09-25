@@ -2,7 +2,7 @@ import shutil, hashlib, random
 from pathlib import Path
 from collections import defaultdict
 
-FERPLUS_RAW = Path('/kaggle/input/datasets/arnabkumarroy02/ferplus')
+FERPLUS_RAW = Path('')
 OUTPUT_ROOT = Path('/kaggle/working/ferplus_cleaned')
 
 SPLITS_TO_MERGE = ['train', 'validation', 'test']
