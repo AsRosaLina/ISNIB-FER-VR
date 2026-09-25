@@ -18,4 +18,3 @@ This repository is being released progressively alongside the publication proces
 
 ## Citation
 
-If you use this work, please cite:
